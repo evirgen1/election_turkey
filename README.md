@@ -8,7 +8,7 @@ You know the struggle if you've ever tried to get election data from the YSK (Su
 
 ## What's in the Repository?
 
-This repository contains structured and clean election results data sets. I started by uploading the local elections data from 2014 and 2019. However, my goal is to include all election results in a short amount of time. 
+This repository contains structured and clean election results data sets. I started by uploading the local elections data from 2014 and 2019 (You can find them in the Local Elections folder as local_2014.csv and local_2019.csv). However, my goal is to include all election results in a short amount of time. 
 
 ## Contribution and Feedback
 
