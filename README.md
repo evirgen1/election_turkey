@@ -17,3 +17,24 @@ Your feedback is vital to the accuracy and reliability of these data sets. Feel 
 I wholeheartedly appreciate your support in making these data sets more accurate and useful. Let's democratize access to election data!
 
 Stay tuned for more updates.
+
+# Seçim Veri Deposu
+
+Herkese merhaba; Türkiye'nin seçim sonuçlarına ait verileri halka kolaylıkla erişilebilir ve verimli bir şekilde sunma gerekliliğinden doğan bu seçim veri deposunu sizlerle paylaşmaktan büyük bir mutluluk duyuyorum.
+
+## Motivasyon
+
+Eğer daha önce YSK'dan (Yüksek Seçim Kurulu) seçim verisi almaya çalıştıysanız, zorluğunu bilirsiniz. YSK'nın resmi web sitesinde sağlanan veri setleri, genellikle karmaşık yapısı ve kapsamlı bir dökümantasyona eksikliği nedeniyle kullanımı zor olabiliyor. Bu nedenle, bu depo görevinin bu boşluğu doldurmak olduğunu belirtmek isterim.
+
+## Depoda Neler Var?
+
+Bu depo, yapılandırılmış ve temiz seçim sonuçları veri setlerini içermektedir. İlk olarak 2014 ve 2019 yerel seçim verilerini yükledim (Bu verileri Yerel Seçimler klasöründe `local_2014.csv` ve `local_2019.csv` olarak bulabilirsiniz). Ancak, hedefim kısa süre içinde tüm seçim sonuçlarını içermek.
+
+## Katılım ve Geri Bildirim
+
+Geri bildirimleriniz, bu veri setlerinin doğruluğu ve güvenilirliği açısından çok önemlidir. Herhangi bir düzeltme veya sorunla karşılaşırsanız bana bilgi vermekten çekinmeyin. Bana `yevirge1@binghamton.edu` adresinden ulaşabilirsiniz.
+
+Bu veri setlerini daha doğru ve kullanışlı hale getirmedeki desteğinizi canı gönülden takdir ediyorum. Haydi, seçim verilerine erişimi demokratikleştirelim!
+
+Daha fazla güncelleme için bizi takip etmeye devam edin.
+
