@@ -32,7 +32,7 @@ Bu depo, yapılandırılmış ve temiz seçim sonuçları veri setlerini içerme
 
 ## Katılım ve Geri Bildirim
 
-Geri bildirimleriniz, bu veri setlerinin doğruluğu ve güvenilirliği açısından çok önemlidir. Herhangi bir düzeltme veya sorunla karşılaşırsanız bana bilgi vermekten çekinmeyin. Bana `yevirge1@binghamton.edu` adresinden ulaşabilirsiniz.
+Geri bildirimleriniz, bu veri setlerinin doğruluğu ve güvenilirliği açısından çok önemlidir. Herhangi bir düzeltme veya sorunla karşılaşırsanız bana bilgi vermekten çekinmeyin. Bana [yevirge1@binghamton.edu](mailto:yevirge1@binghamton.edu) adresinden ulaşabilirsiniz.
 
 Bu veri setlerini daha doğru ve kullanışlı hale getirmedeki desteğinizi canı gönülden takdir ediyorum. Haydi, seçim verilerine erişimi demokratikleştirelim!
 
