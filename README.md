@@ -14,9 +14,6 @@ This repository contains structured and clean election results data sets. I star
 
 Your feedback is vital to the accuracy and reliability of these data sets. Feel free to inform me if you need any corrections or issues. You can contact me at [yevirge1@binghamton.edu](mailto:yevirge1@binghamton.edu). 
 
-I wholeheartedly appreciate your support in making these data sets more accurate and useful. Let's democratize access to election data!
-
-Stay tuned for more updates.
 
 # Seçim Verisi
 
@@ -34,7 +31,4 @@ Bu depo, yapılandırılmış ve temiz seçim sonuçları veri setlerini içerme
 
 Geri bildirimleriniz, bu veri setlerinin doğruluğu ve güvenilirliği açısından çok önemlidir. Herhangi bir düzeltme veya sorunla karşılaşırsanız bana bilgi vermekten çekinmeyin. Bana [yevirge1@binghamton.edu](mailto:yevirge1@binghamton.edu) adresinden ulaşabilirsiniz.
 
-Bu veri setlerini daha doğru ve kullanışlı hale getirmedeki desteğinizi canı gönülden takdir ediyorum. Haydi, seçim verilerine erişimi demokratikleştirelim!
-
-Daha fazla güncelleme için bizi takip etmeye devam edin.
 
