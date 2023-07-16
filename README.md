@@ -18,7 +18,7 @@ I wholeheartedly appreciate your support in making these data sets more accurate
 
 Stay tuned for more updates.
 
-# Seçim Veri Deposu
+# Seçim Verisi
 
 Herkese merhaba; Türkiye'nin seçim sonuçlarına ait verileri halka kolaylıkla erişilebilir ve verimli bir şekilde sunma gerekliliğinden doğan bu seçim veri deposunu sizlerle paylaşmaktan büyük bir mutluluk duyuyorum.
 
